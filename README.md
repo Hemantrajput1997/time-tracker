@@ -9,3 +9,5 @@ new changes
 changes in read me file
 
 new changes on date 19/07/2023
+
+new commit to check automation in jenkins
